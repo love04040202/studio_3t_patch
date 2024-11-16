@@ -1,5 +1,9 @@
 
 ## Studio 3T 2024.2.0 Patch
+
+![](pic.png)
+
+
 ### Mac
 
 ```
