@@ -14,3 +14,5 @@ sh hack_studio_3t.sh
 ### Windows
 
 TODO
+
+下载 studio 4.2.0 版本 需要
